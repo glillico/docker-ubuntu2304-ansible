@@ -6,7 +6,7 @@ A docker container using Ubuntu 23.04 with Ansible installed for playbook and ro
 
 ## Tags
 
-  - 'latest'  : Python 3.11.x and the latest stable version of Ansible available from Ubuntu.
+  - 'latest'  : Python 3.11.x and the latest stable version of Ansible.
 
 ## How To Build
 
